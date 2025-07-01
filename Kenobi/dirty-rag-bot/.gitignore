@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# VSCode settings
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Ollama artifacts
+ollama/
+ollama.log
+
+# Node artifacts (if applicable)
+node_modules/
+dist/
+build/
+
+# Dirty-RAG assets
+outputs/
+tts/output.wav
+
+# Avatar state
+ui/state.json

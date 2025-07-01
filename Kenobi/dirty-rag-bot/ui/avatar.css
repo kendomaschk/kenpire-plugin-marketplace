@@ -1,0 +1,12 @@
+body {
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+#avatar-container img {
+  max-height: 90vh;
+  transition: all 0.3s ease;
+}

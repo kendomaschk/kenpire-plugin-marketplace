@@ -1,0 +1,4 @@
+nsfw: true
+tts: true
+visual: false
+model: dolphin-mixtral
