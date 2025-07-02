@@ -1,0 +1,6 @@
+name: Action Item Generator
+description: TODO
+tags: []
+compatible_agents: [agile-report-bot, orchestrator]
+entry_point: processor.run
+version: 0.1.0
